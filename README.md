@@ -25,7 +25,7 @@ My first project on Frontend Mentor. The card of QR code is the same size on a m
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [femt-qr-code-component](https://mpluggie7.github.io/femt-qr-code-component/)
 
 ## My process
 
@@ -54,11 +54,11 @@ then, When be used I will call as style="some_style: var(--name_of_param);"
 
 ### Continued development
 
-I will continue practice in the next projects.
+I will continue to practice in the other projects.
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/css/css3_variables.asp) - This helped me to understand the variable in css.
+- [variable-css](https://www.w3schools.com/css/css3_variables.asp) - This helped me to understand the variable in css.
 
 ## Author
 
